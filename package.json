@@ -19,5 +19,8 @@
   "homepage": "https://github.com/carryex/planets-project#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "csv-parse": "^5.0.3"
   }
 }
