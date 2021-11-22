@@ -1,0 +1,23 @@
+{
+  "name": "planets-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carryex/planets-project.git"
+  },
+  "author": "Daniil Pokinsokha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carryex/planets-project/issues"
+  },
+  "homepage": "https://github.com/carryex/planets-project#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
